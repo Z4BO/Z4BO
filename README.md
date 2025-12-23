@@ -19,47 +19,61 @@
                                                      
 
 ```
+## 👋 Hi, I’m Z4B0
 
-# 👋 Hi, I’m Z4B0 — @molii566
-
-Welcome to my GitHub space. I’m a backend developer, pentester, and CTF player always digging deeper into code and security.
+Welcome to my GitHub space.  
+I’m a **Web Security Specialist** and **Backend Developer**, and an active member of the **FuzzRaiders cybersecurity team**, focused on real-world web application security and offensive testing.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🛠️ **Backend Developer** — I build efficient, clean, and secure applications using **Node.js** and other web technologies.
-- 🕵️‍♂️ **Pentester / Web Security Explorer** — Always on the hunt for vulnerabilities through bug bounty programs and CTFs.
-- 📚 **Curious Learner** — Obsessed with mastering both development and offensive security.
-- 🧠 **Project-Minded** — You'll find backend repos, CTF writeups, automation scripts, and raw experiments in here.
+- 🛡️ **Web Security Specialist — FuzzRaiders Team**  
+  I work on identifying, exploiting, and understanding web application vulnerabilities as part of a structured offensive security team.
+
+- 🛠️ **Backend Developer**  
+  I build clean, efficient, and secure backend systems using **Node.js**, APIs, authentication flows, and databases.
+
+- 🕵️‍♂️ **Pentester / CTF Player**  
+  Actively practicing web exploitation through CTFs, labs, and hands-on testing to strengthen real-world methodology.
+
+- 📚 **Continuous Learner**  
+  Focused on mastering both secure development and offensive web security.
 
 ---
 
 ## 🚧 What I’m Working On
 
-- **Backend Systems** — Auth, APIs, EJS, file handling, DBs.
-- **Web Security & Offensive Testing** — XSS, SSTI, IDOR, RCE, and more.
-- **CTF Writeups & Methodologies** — Personal notes and solved challenges.
-- **Automation Scripts** — Tools to speed up recon, enumeration, and testing.
+- **Web Application Security**  
+  XSS, IDOR, SQLi, SSTI, authentication flaws, access control issues, and business logic bugs.
+
+- **Backend Systems**  
+  Auth systems, REST APIs, file handling, database design, and secure app architecture.
+
+- **CTF Writeups & Methodology**  
+  Documented challenges, notes, and repeatable testing approaches.
+
+- **Security Automation**  
+  Scripts and tools to speed up recon, enumeration, and testing workflows.
 
 ---
 
 ## 📂 Featured Projects
 
-> Check my pinned repos for:
+> Check my pinned repositories for:
 - 🧩 **CTF Writeups**
-- 🔐 **Bug Bounty Tools**
-- ⚙️ **Full-Stack Backend Blog App**
-- 🛠️ **Security Scripts and Recon Tools**
+- 🔐 **Web Security & Bug Bounty Tools**
+- ⚙️ **Backend & Full-Stack Projects**
+- 🛠️ **Security Scripts and Experiments**
 
 ---
 
 ## 🌱 Currently Diving Deeper Into
 
 - **Advanced Node.js & Express**
-- **Web Application Security**
-- **Better-SQLite3 & Auth Systems**
-- **OSCP Prep, Linux PrivEsc, Buffer Overflows**
+- **Web Application Security (Offensive)**
+- **Authentication & Authorization Systems**
+- **Linux Privilege Escalation & OSCP-style Labs**
 
 ---
 
@@ -67,17 +81,17 @@ Welcome to my GitHub space. I’m a backend developer, pentester, and CTF player
 
 - 🐦 Twitter: [Mo__liiga](https://twitter.com/Mo__liiga)
 - 🧠 LinkedIn: [Mahamud Abdirahman](https://www.linkedin.com/in/mahamud-abdirahman-151493375/)
-- 💻 GitHub: [@molii566](https://github.com/molii566)
+- 💻 GitHub: [@Z4BO](https://github.com/Z4B0)
 
 ---
 
 ## ⚡ Fun Facts
 
-- I reverse-engineer problems like puzzles.
-- I like my shells interactive, my payloads encoded, and my servers **properly rooted**.
-- I don’t sleep on bugs — I debug in my dreams.
+- I approach vulnerabilities like puzzles — logic first, exploit second.
+- I care about **methodology**, not just flags.
+- If it’s a web app, I want to break it *and* understand why it broke.
 
 ---
 
-**Let’s build. Let’s break. Let’s learn.**  
+**Build securely. Break responsibly. Learn constantly.**  
 — `Z4B0`
